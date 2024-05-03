@@ -1,8 +1,8 @@
 [package]
-name = "genpwd"
+name = "pwd123"
 version = "0.1.0"
 edition = "2021"
-description = "A simple,fastpassword generator,only includes one file"
+description = "A simple , fast password generator , only includes one file"
 license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
